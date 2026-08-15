@@ -1,0 +1,112 @@
+﻿#include "generated_resources.h"
+
+IDI_ICON1 ICON "icon.ico"
+
+// ==========================================
+// Screamer Images (RCDATA)
+// ==========================================
+1000 RCDATA "screamerpics\\1.bmp"
+1001 RCDATA "screamerpics\\10.bmp"
+1002 RCDATA "screamerpics\\11.bmp"
+1003 RCDATA "screamerpics\\12.bmp"
+1004 RCDATA "screamerpics\\13.bmp"
+1005 RCDATA "screamerpics\\14.bmp"
+1006 RCDATA "screamerpics\\15.bmp"
+1007 RCDATA "screamerpics\\16.bmp"
+1008 RCDATA "screamerpics\\17.bmp"
+1009 RCDATA "screamerpics\\18.bmp"
+1010 RCDATA "screamerpics\\19.bmp"
+1011 RCDATA "screamerpics\\2.bmp"
+1012 RCDATA "screamerpics\\20.bmp"
+1013 RCDATA "screamerpics\\21.bmp"
+1014 RCDATA "screamerpics\\22.bmp"
+1015 RCDATA "screamerpics\\23.bmp"
+1016 RCDATA "screamerpics\\24.bmp"
+1017 RCDATA "screamerpics\\25.bmp"
+1018 RCDATA "screamerpics\\3.bmp"
+1019 RCDATA "screamerpics\\4.bmp"
+1020 RCDATA "screamerpics\\5.bmp"
+1021 RCDATA "screamerpics\\6.bmp"
+1022 RCDATA "screamerpics\\7.bmp"
+1023 RCDATA "screamerpics\\8.bmp"
+1024 RCDATA "screamerpics\\9.bmp"
+
+// ==========================================
+// Screamer Sounds (WAVE)
+// ==========================================
+2000 WAVE "screamersounds\\1.wav"
+2001 WAVE "screamersounds\\10.wav"
+2002 WAVE "screamersounds\\11.wav"
+2003 WAVE "screamersounds\\12.wav"
+2004 WAVE "screamersounds\\13.wav"
+2005 WAVE "screamersounds\\14.wav"
+2006 WAVE "screamersounds\\15.wav"
+2007 WAVE "screamersounds\\16.wav"
+2008 WAVE "screamersounds\\17.wav"
+2009 WAVE "screamersounds\\18.wav"
+2010 WAVE "screamersounds\\19.wav"
+2011 WAVE "screamersounds\\2.wav"
+2012 WAVE "screamersounds\\20.wav"
+2013 WAVE "screamersounds\\21.wav"
+2014 WAVE "screamersounds\\22.wav"
+2015 WAVE "screamersounds\\3.wav"
+2016 WAVE "screamersounds\\4.wav"
+2017 WAVE "screamersounds\\5.wav"
+2018 WAVE "screamersounds\\6.wav"
+2019 WAVE "screamersounds\\7.wav"
+2020 WAVE "screamersounds\\8.wav"
+2021 WAVE "screamersounds\\9.wav"
+
+// ==========================================
+// Flashbang Sounds (WAVE)
+// ==========================================
+3000 WAVE "flashbangs\\1.wav"
+3001 WAVE "flashbangs\\2.wav"
+3002 WAVE "flashbangs\\3.wav"
+3003 WAVE "flashbangs\\4.wav"
+
+// ==========================================
+// Long Sounds (WAVE)
+// ==========================================
+4000 WAVE "longsounds\\1.wav"
+4001 WAVE "longsounds\\10.wav"
+4002 WAVE "longsounds\\11.wav"
+4003 WAVE "longsounds\\12.wav"
+4004 WAVE "longsounds\\13.wav"
+4005 WAVE "longsounds\\14.wav"
+4006 WAVE "longsounds\\2.wav"
+4007 WAVE "longsounds\\3.wav"
+4008 WAVE "longsounds\\4.wav"
+4009 WAVE "longsounds\\5.wav"
+4010 WAVE "longsounds\\6.wav"
+4011 WAVE "longsounds\\7.wav"
+4012 WAVE "longsounds\\8.wav"
+4013 WAVE "longsounds\\9.wav"
+
+// ==========================================
+// Captcha Images (RCDATA)
+// ==========================================
+5000 RCDATA "kapcha\\автобус1.png"
+5001 RCDATA "kapcha\\автобус2.png"
+5002 RCDATA "kapcha\\автобус3.png"
+5003 RCDATA "kapcha\\автобус4.png"
+5004 RCDATA "kapcha\\гидрант1.png"
+5005 RCDATA "kapcha\\гидрант2.png"
+5006 RCDATA "kapcha\\гидрант3.png"
+5007 RCDATA "kapcha\\гидрант4.png"
+5008 RCDATA "kapcha\\девушка1.png"
+5009 RCDATA "kapcha\\девушка2.png"
+5010 RCDATA "kapcha\\девушка3.png"
+5011 RCDATA "kapcha\\девушка4.png"
+5012 RCDATA "kapcha\\пешеходныйпереход1.png"
+5013 RCDATA "kapcha\\пешеходныйпереход2.png"
+5014 RCDATA "kapcha\\пешеходныйпереход3.png"
+5015 RCDATA "kapcha\\пешеходныйпереход4.png"
+
+// ==========================================
+// Buttons & Special Photos (RCDATA)
+// ==========================================
+IDR_KNOPKA2_PNG RCDATA "C:\\Users\\dispair\\Desktop\\knopka2.psd.png"
+IDR_KNOPKA_NAJATA2_PNG RCDATA "C:\\Users\\dispair\\Desktop\\knopka_najata2.psd.png"
+IDR_FAKECLOSEPHOTO_PNG RCDATA "fakeclosephoto.png"
+IDR_BSOD_JPG RCDATA "bsod.jpg"

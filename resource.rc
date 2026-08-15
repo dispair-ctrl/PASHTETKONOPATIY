@@ -1,0 +1,2 @@
+#include "resource.h"
+#include "generated_resources.rc"
